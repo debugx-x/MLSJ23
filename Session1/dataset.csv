@@ -1,0 +1,49 @@
+Color,Weight,Fruit_Label
+Red,120,Apple
+Yellow,150,Banana
+Green,110,Apple
+Invalid Color,130,Banana
+Red,140,Apple
+Yellow,160,Banana
+Green,130,Apple
+Yellow,170,Banana
+Red,150,Apple
+,,Banana
+Red,130,Apple
+Yellow,140,Banana
+Green,120,Apple
+Yellow,170,Banana
+Red,140,Apple
+Yellow,150,Banana
+Green,110,Apple
+Yellow,130,Banana
+Red,Invalid Weight,Apple
+Yellow,170,Banana
+Red,150,Apple
+Yellow,Invalid Entry,Banana
+Green,120,Apple
+Yellow,140,Banana
+Red,130,Apple
+Yellow,180,Banana
+Green,110,Apple
+Yellow,150,Banana
+Red,140,Apple
+Invalid Color,160,Banana
+Green,130,Apple
+Yellow,Invalid Weight,Banana
+Red,150,Apple
+Yellow,160,Banana
+Green,120,Apple
+Yellow,140,Banana
+Red,130,Apple
+,Banana
+Red,140,Apple
+Yellow,150,Banana
+Green,Invalid Weight,Apple
+Yellow,130,Banana
+Red,160,Apple
+Yellow,Invalid Entry,Banana
+Red,150,Apple
+Yellow,160,Banana
+Green,120,Apple
+Yellow,Invalid Weight,Banana
